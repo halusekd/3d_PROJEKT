@@ -5,7 +5,7 @@ Opis projekta
 Projekt predstavlja animirani obilazak moderne smart kuće. U repozitoriju se nalaze Blender projekt te svi objekti koji su izrađeni i korišteni u sklopu projekta.
 
 Pokretanje projekta
-
+Link za preuzimanje .blend project datoteke: https://www.mediafire.com/file/g03aduy4jj6vf69/files.zip/file
 Za prikaz animacije potrebno je otvoriti .blend datoteku u programu Blender. Nakon što se projekt učita, pritiskom na tipku SPACEBAR pokreće se animacija, pri čemu se mogu vidjeti kretnje svih animiranih dijelova modela.
 
 Prikaz iz kamera
