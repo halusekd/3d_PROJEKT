@@ -1,4 +1,5 @@
 Smart kuća – Blender projekt
+
 Opis projekta
 
 Projekt predstavlja animirani obilazak moderne smart kuće. U repozitoriju se nalaze Blender projekt te svi objekti koji su izrađeni i korišteni u sklopu projekta.
